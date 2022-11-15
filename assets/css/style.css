@@ -1,4 +1,10 @@
-
+#write{
+  color:white;
+  font-size:14px ;
+}
+#write:hover{
+  color: white;
+}
 
 /*--------------------------------------------------------------
 # General
