@@ -55,7 +55,7 @@ body::before {
     content: "";
     position: fixed;
     
-    background: #5a4747 url("../img/home.jpg") ;
+    background: #040404 url("../img/home.jpg") ;
     background-size: cover;
     left: 0;
     right: 0;
