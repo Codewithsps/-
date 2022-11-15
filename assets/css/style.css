@@ -1,13 +1,35 @@
-/**
-* Template Name: Personal - v4.9.1
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+ 
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:#f1f1f1;
+ 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:#0F9D58;
+
+ 
+ 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+   
+}
+
+
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
