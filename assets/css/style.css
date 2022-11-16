@@ -189,7 +189,7 @@ h6 {
     align-items: center;
   }
 }
-@media (max-width: 415px) {
+/* @media (max-width: 415px) {
   #header .social-links {
     margin-top: -15px;
   }
@@ -198,7 +198,7 @@ h6 {
   #header .social-links {
     margin-top: -15px;
   }
-}
+} */
 /* Header Top */
 #header.header-top {
   height: 80px;
