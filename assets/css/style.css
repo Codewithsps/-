@@ -61,7 +61,7 @@ body::before {
     content: "";
     position: fixed;
     
-    background: #040404 url("../img/home.jpg") ;
+    background: #040404 url("assets/img/Mobilepic.jpg") ;
     background-size: cover;
     left: 0;
     right: 0;
