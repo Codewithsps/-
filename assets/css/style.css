@@ -61,7 +61,7 @@ body::before {
     content: "";
     position: fixed;
     
-    background: #040404 url("assets/img/home.jpg") ;
+    background: #040404 url("../img/home.jpg") ;
     background-size: cover;
     left: 0;
     right: 0;
@@ -189,16 +189,7 @@ h6 {
     align-items: center;
   }
 }
-/* @media (max-width: 415px) {
-  #header .social-links {
-    margin-top: -15px;
-  }
-}
-@media (max-width: 615px) {
-  #header .social-links {
-    margin-top: -15px;
-  }
-} */
+
 /* Header Top */
 #header.header-top {
   height: 80px;
@@ -369,7 +360,7 @@ h6 {
   padding: 10px 0;
   overflow-y: auto;
   transition: 0.3s;
-  border: 2px dotted rgba(255, 255, 255, 0.2);
+  border: 2px dashed rgba(255, 255, 255, 0.3);
  
 }
 
