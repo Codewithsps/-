@@ -3,5 +3,5 @@
 <br>
 
 <br>
-<img src="https://github.com/Codewithsps/sps/blob/5e112239bfd50f359ade71f5636e50f61cb6e1eb/photos/codewithsps.png" alt="js" >
+<img src="https://github.com/Codewithsps/sp/blob/48f323fb8288c7be7b85cad5207b88205db1e0a8/assets/img/Codewithsp.png" alt="js" >
 
